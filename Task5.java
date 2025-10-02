@@ -35,5 +35,6 @@ public class Task5 {
        for (int i = 1; i <= num; i++) {
            diamond(i);
        }
+       scanner.close();
     }
 }
